@@ -1,0 +1,25 @@
+{
+  "name": "dsp-fft",
+  "version": "1.0.0",
+  "description": "Provides FFT and DFT libraries for Digital Signal Processing.",
+  "main": "src/fft.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kunwar-rahul/dsp-fft.git"
+  },
+  "keywords": [
+    "dsp",
+    "fft",
+    "dfft",
+    "complex"
+  ],
+  "author": "'Rahul <'kr.rahul.kunwar@gmail.com'>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kunwar-rahul/dsp-fft/issues"
+  },
+  "homepage": "https://github.com/kunwar-rahul/dsp-fft#readme"
+}
