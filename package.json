@@ -1,6 +1,6 @@
 {
   "name": "dsp-fft",
-  "version" : "0.0.0-semantically-released",
+  "version": "0.0.0-semantically-released",
   "description": "Provides FFT and DFT libraries for Digital Signal Processing.",
   "main": "src/fft.js",
   "scripts": {
